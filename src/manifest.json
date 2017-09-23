@@ -1,0 +1,27 @@
+{
+  "name": "eLoginUnicornSkin",
+  "short_name": "PP-UnicornSkin",
+  "version": "0.1",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "*://elogin.put.poznan.pl/*"
+      ],
+      "css": ["css/login.css", "css/common.css"],
+      "js": ["js/inject.js"],
+      "run_at" : "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+	"/images/modified/unicorn_new.png",
+    "/images/modified/put_logo_text.png",
+    "/images/modified/put_logo.png",
+	"/js/snow.js",
+	"/js/inject.js",
+    "/js/kurwa.js"
+  ],
+  "icons": {
+    "128": "icon-128.png"
+  }
+}
