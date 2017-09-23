@@ -12,7 +12,7 @@ Używa różowego i spadających jednorożców.
 
 ## Screenshots
 
-> ![Login](https://lh3.googleusercontent.com/7CMKm7-4vQvmmXKJnLO9pKwJ5DHRqriva5jO4ORlKWFkmR7IIhndPvfQZHTso4ayOwSXioiz=s640-h400-e365-rw)
+> ![Login](https://github.com/marcinlawnik/eLoginUnicornSkin/raw/master/resources/images/screenshots/eLogin%20%20%20Politechnika%20Pozna%C5%84ska.png)
 
 ## Installation
 
