@@ -1,8 +1,26 @@
 /* To jest dołączone do wszystkich stron przez skrypt */
 /* Różowe unicorny */
 body {
-    background-color: #FFB3EB !important;
+    background: #FFB3EB !important;
 }
-.menu-main {
-    background-color: #FF00BC !important;
+.left-content-column {
+    background: #FF00BC !important;
+}
+
+::selection {
+    color: #FFF !important;
+    background: #FFB3EB !important;
+}
+
+.quick-links-bar {
+    background: #FFB3EB !important;
+}
+
+.top-menu-bar-left-column,
+.top-menu-bar-right-column {
+    background: #FF00BC !important;
+}
+
+.bottom-bar {
+    background: #FF00BC !important;
 }
